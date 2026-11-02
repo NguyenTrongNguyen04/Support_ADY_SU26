@@ -1,0 +1,6 @@
+# Hai file crawl thô giữ ở máy, không đưa lên repo
+topcv-data-analyst-2026-10-11.csv
+topcv-de-aiml-2026-10-11.csv
+
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,90 @@
+﻿role,skill,job_count,role_job_count,mention_rate
+ai_ml_engineer,Python,16,20,0.8
+ai_ml_engineer,Git,12,20,0.6
+ai_ml_engineer,RAG,9,20,0.45
+ai_ml_engineer,Computer Vision,8,20,0.4
+ai_ml_engineer,LLM,8,20,0.4
+ai_ml_engineer,PyTorch,8,20,0.4
+ai_ml_engineer,AI Agents,7,20,0.35
+ai_ml_engineer,Docker,7,20,0.35
+ai_ml_engineer,LangChain,7,20,0.35
+ai_ml_engineer,Vector Database,7,20,0.35
+ai_ml_engineer,Machine Learning,6,20,0.3
+ai_ml_engineer,C++,5,20,0.25
+ai_ml_engineer,Kubernetes,5,20,0.25
+ai_ml_engineer,NLP,5,20,0.25
+ai_ml_engineer,TensorFlow,5,20,0.25
+ai_ml_engineer,Deep Learning,4,20,0.2
+ai_ml_engineer,Linux,4,20,0.2
+ai_ml_engineer,OCR,4,20,0.2
+ai_ml_engineer,SQL,3,20,0.15
+ai_ml_engineer,NoSQL,2,20,0.1
+ai_ml_engineer,OpenCV,2,20,0.1
+ai_ml_engineer,scikit-learn,2,20,0.1
+ai_ml_engineer,AWS,1,20,0.05
+ai_ml_engineer,Azure,1,20,0.05
+ai_ml_engineer,C#,1,20,0.05
+ai_ml_engineer,Elasticsearch,1,20,0.05
+ai_ml_engineer,GCP,1,20,0.05
+ai_ml_engineer,Go,1,20,0.05
+ai_ml_engineer,Hugging Face,1,20,0.05
+ai_ml_engineer,Java,1,20,0.05
+ai_ml_engineer,JavaScript,1,20,0.05
+ai_ml_engineer,Keras,1,20,0.05
+ai_ml_engineer,MongoDB,1,20,0.05
+ai_ml_engineer,Pandas,1,20,0.05
+ai_ml_engineer,PostgreSQL,1,20,0.05
+ai_ml_engineer,Statistics,1,20,0.05
+ai_ml_engineer,TypeScript,1,20,0.05
+data_analyst,Power BI,19,23,0.826
+data_analyst,SQL,14,23,0.609
+data_analyst,Excel,13,23,0.565
+data_analyst,Python,11,23,0.478
+data_analyst,Data Warehouse,8,23,0.348
+data_analyst,Tableau,8,23,0.348
+data_analyst,Looker Studio,7,23,0.304
+data_analyst,Google Sheets,5,23,0.217
+data_analyst,R,5,23,0.217
+data_analyst,BigQuery,4,23,0.174
+data_analyst,ETL,3,23,0.13
+data_analyst,Airflow,2,23,0.087
+data_analyst,MySQL,2,23,0.087
+data_analyst,Statistics,2,23,0.087
+data_analyst,Kubernetes,1,23,0.043
+data_analyst,Machine Learning,1,23,0.043
+data_analyst,PostgreSQL,1,23,0.043
+data_analyst,Power Query,1,23,0.043
+data_analyst,SQL Server,1,23,0.043
+data_analyst,Spark,1,23,0.043
+data_engineer,Python,10,10,1.0
+data_engineer,ETL,9,10,0.9
+data_engineer,SQL,9,10,0.9
+data_engineer,ELT,7,10,0.7
+data_engineer,Spark,7,10,0.7
+data_engineer,Kafka,5,10,0.5
+data_engineer,PostgreSQL,4,10,0.4
+data_engineer,AWS,3,10,0.3
+data_engineer,Airflow,3,10,0.3
+data_engineer,Data Warehouse,3,10,0.3
+data_engineer,Docker,3,10,0.3
+data_engineer,Elasticsearch,3,10,0.3
+data_engineer,MySQL,3,10,0.3
+data_engineer,NoSQL,3,10,0.3
+data_engineer,BigQuery,2,10,0.2
+data_engineer,Git,2,10,0.2
+data_engineer,Hadoop,2,10,0.2
+data_engineer,Java,2,10,0.2
+data_engineer,Kubernetes,2,10,0.2
+data_engineer,LLM,2,10,0.2
+data_engineer,MongoDB,2,10,0.2
+data_engineer,Pandas,2,10,0.2
+data_engineer,Power BI,2,10,0.2
+data_engineer,SQL Server,2,10,0.2
+data_engineer,Scala,2,10,0.2
+data_engineer,Excel,1,10,0.1
+data_engineer,GCP,1,10,0.1
+data_engineer,Linux,1,10,0.1
+data_engineer,Redis,1,10,0.1
+data_engineer,Snowflake,1,10,0.1
+data_engineer,Tableau,1,10,0.1
+data_engineer,dbt,1,10,0.1

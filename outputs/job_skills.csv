@@ -1,0 +1,362 @@
+﻿source_job_id,role,skill
+1637186,ai_ml_engineer,Python
+1637186,ai_ml_engineer,SQL
+1637186,ai_ml_engineer,Pandas
+1637186,ai_ml_engineer,Statistics
+1637186,ai_ml_engineer,Docker
+1637186,ai_ml_engineer,Kubernetes
+1637186,ai_ml_engineer,NoSQL
+1637186,ai_ml_engineer,Machine Learning
+1637186,ai_ml_engineer,Deep Learning
+1637186,ai_ml_engineer,scikit-learn
+1637186,ai_ml_engineer,PyTorch
+1637186,ai_ml_engineer,TensorFlow
+1637186,ai_ml_engineer,Keras
+1637186,ai_ml_engineer,NLP
+1637186,ai_ml_engineer,Computer Vision
+1637186,ai_ml_engineer,OCR
+1637186,ai_ml_engineer,LangChain
+2136061,ai_ml_engineer,Git
+2136061,ai_ml_engineer,RAG
+2136061,ai_ml_engineer,AI Agents
+2136061,ai_ml_engineer,Vector Database
+2236920,ai_ml_engineer,Python
+2236920,ai_ml_engineer,Docker
+2236920,ai_ml_engineer,Kubernetes
+2236920,ai_ml_engineer,Git
+2236920,ai_ml_engineer,AWS
+2236920,ai_ml_engineer,Azure
+2236920,ai_ml_engineer,GCP
+2236920,ai_ml_engineer,Computer Vision
+2236920,ai_ml_engineer,LLM
+2236920,ai_ml_engineer,RAG
+2236920,ai_ml_engineer,LangChain
+2284624,ai_ml_engineer,Python
+2284624,ai_ml_engineer,Git
+2284624,ai_ml_engineer,Machine Learning
+2284624,ai_ml_engineer,Deep Learning
+2284624,ai_ml_engineer,PyTorch
+2284624,ai_ml_engineer,LLM
+2284624,ai_ml_engineer,RAG
+2284624,ai_ml_engineer,LangChain
+2284624,ai_ml_engineer,Hugging Face
+2284624,ai_ml_engineer,Vector Database
+2290551,ai_ml_engineer,Python
+2290551,ai_ml_engineer,Git
+2290551,ai_ml_engineer,LLM
+2290551,ai_ml_engineer,LangChain
+2290551,ai_ml_engineer,AI Agents
+2290551,ai_ml_engineer,Vector Database
+2293829,ai_ml_engineer,Python
+2293829,ai_ml_engineer,C++
+2293829,ai_ml_engineer,Git
+2293829,ai_ml_engineer,Linux
+2293829,ai_ml_engineer,PyTorch
+2293829,ai_ml_engineer,TensorFlow
+2293829,ai_ml_engineer,OCR
+2295237,ai_ml_engineer,Python
+2295237,ai_ml_engineer,JavaScript
+2295237,ai_ml_engineer,TypeScript
+2295237,ai_ml_engineer,Docker
+2295237,ai_ml_engineer,Git
+2295237,ai_ml_engineer,AI Agents
+2301090,ai_ml_engineer,Python
+2301090,ai_ml_engineer,Git
+2301090,ai_ml_engineer,Linux
+2301090,ai_ml_engineer,Machine Learning
+2301090,ai_ml_engineer,Deep Learning
+2301090,ai_ml_engineer,PyTorch
+2301090,ai_ml_engineer,TensorFlow
+2301090,ai_ml_engineer,NLP
+2301090,ai_ml_engineer,Computer Vision
+2301090,ai_ml_engineer,OCR
+2302497,ai_ml_engineer,Python
+2302497,ai_ml_engineer,Machine Learning
+2302497,ai_ml_engineer,PyTorch
+2302497,ai_ml_engineer,Computer Vision
+2307451,ai_ml_engineer,Machine Learning
+2313038,ai_ml_engineer,Python
+2313038,ai_ml_engineer,SQL
+2313038,ai_ml_engineer,Git
+2313038,ai_ml_engineer,RAG
+2315254,ai_ml_engineer,Python
+2315254,ai_ml_engineer,SQL
+2315254,ai_ml_engineer,Docker
+2315254,ai_ml_engineer,NoSQL
+2315254,ai_ml_engineer,LLM
+2315254,ai_ml_engineer,RAG
+2315254,ai_ml_engineer,LangChain
+2315254,ai_ml_engineer,Vector Database
+2315676,ai_ml_engineer,Python
+2315676,ai_ml_engineer,C++
+2315676,ai_ml_engineer,Docker
+2315676,ai_ml_engineer,Kubernetes
+2315676,ai_ml_engineer,Git
+2315676,ai_ml_engineer,PyTorch
+2315676,ai_ml_engineer,TensorFlow
+2315676,ai_ml_engineer,NLP
+2315676,ai_ml_engineer,Computer Vision
+2315696,ai_ml_engineer,Python
+2315696,ai_ml_engineer,Java
+2315696,ai_ml_engineer,C++
+2315696,ai_ml_engineer,Go
+2315696,ai_ml_engineer,Docker
+2315696,ai_ml_engineer,Kubernetes
+2315696,ai_ml_engineer,Git
+2315696,ai_ml_engineer,PostgreSQL
+2315696,ai_ml_engineer,MongoDB
+2315696,ai_ml_engineer,NLP
+2315696,ai_ml_engineer,Computer Vision
+2315696,ai_ml_engineer,LLM
+2315696,ai_ml_engineer,RAG
+2315696,ai_ml_engineer,LangChain
+2315696,ai_ml_engineer,Vector Database
+2316598,ai_ml_engineer,C#
+2316598,ai_ml_engineer,OpenCV
+2316943,ai_ml_engineer,AI Agents
+2319950,ai_ml_engineer,Python
+2319950,ai_ml_engineer,NLP
+2319950,ai_ml_engineer,LLM
+2319950,ai_ml_engineer,RAG
+2319950,ai_ml_engineer,LangChain
+2319950,ai_ml_engineer,AI Agents
+2319950,ai_ml_engineer,Vector Database
+2322109,ai_ml_engineer,Python
+2322109,ai_ml_engineer,C++
+2322109,ai_ml_engineer,Git
+2322109,ai_ml_engineer,Linux
+2322109,ai_ml_engineer,Machine Learning
+2322109,ai_ml_engineer,PyTorch
+2322109,ai_ml_engineer,Computer Vision
+2322109,ai_ml_engineer,OpenCV
+2324036,ai_ml_engineer,Python
+2324036,ai_ml_engineer,Docker
+2324036,ai_ml_engineer,Kubernetes
+2324036,ai_ml_engineer,Git
+2324036,ai_ml_engineer,Linux
+2324036,ai_ml_engineer,Elasticsearch
+2324036,ai_ml_engineer,OCR
+2324036,ai_ml_engineer,LLM
+2324036,ai_ml_engineer,RAG
+2324036,ai_ml_engineer,AI Agents
+2324036,ai_ml_engineer,Vector Database
+2325817,ai_ml_engineer,Python
+2325817,ai_ml_engineer,C++
+2325817,ai_ml_engineer,Deep Learning
+2325817,ai_ml_engineer,scikit-learn
+2325817,ai_ml_engineer,PyTorch
+2325817,ai_ml_engineer,TensorFlow
+2325817,ai_ml_engineer,Computer Vision
+2325817,ai_ml_engineer,LLM
+2325817,ai_ml_engineer,RAG
+2325817,ai_ml_engineer,AI Agents
+1738456,data_analyst,Excel
+1935054,data_analyst,Excel
+2167677,data_analyst,Excel
+2167677,data_analyst,Google Sheets
+2180185,data_analyst,Python
+2180185,data_analyst,Looker Studio
+2180185,data_analyst,ETL
+2180185,data_analyst,Airflow
+2180185,data_analyst,BigQuery
+2180185,data_analyst,Machine Learning
+2198057,data_analyst,Python
+2198057,data_analyst,SQL
+2198057,data_analyst,R
+2198057,data_analyst,Excel
+2198057,data_analyst,Power BI
+2198057,data_analyst,Tableau
+2198057,data_analyst,Looker Studio
+2198057,data_analyst,Power Query
+2198057,data_analyst,ETL
+2198057,data_analyst,Data Warehouse
+2289634,data_analyst,SQL
+2289634,data_analyst,Power BI
+2289634,data_analyst,Tableau
+2289634,data_analyst,Looker Studio
+2289634,data_analyst,MySQL
+2289634,data_analyst,SQL Server
+2289634,data_analyst,Data Warehouse
+2290377,data_analyst,Python
+2290377,data_analyst,SQL
+2290377,data_analyst,R
+2290377,data_analyst,Power BI
+2290377,data_analyst,Tableau
+2300763,data_analyst,SQL
+2300763,data_analyst,Power BI
+2302348,data_analyst,SQL
+2302348,data_analyst,Power BI
+2302348,data_analyst,Spark
+2302348,data_analyst,Airflow
+2302348,data_analyst,Kubernetes
+2303888,data_analyst,Python
+2303888,data_analyst,SQL
+2303888,data_analyst,R
+2303888,data_analyst,Excel
+2303888,data_analyst,Power BI
+2303888,data_analyst,Data Warehouse
+2304208,data_analyst,Python
+2304208,data_analyst,SQL
+2304208,data_analyst,Power BI
+2304208,data_analyst,Tableau
+2304208,data_analyst,Looker Studio
+2304208,data_analyst,Statistics
+2304208,data_analyst,BigQuery
+2304208,data_analyst,Data Warehouse
+2304450,data_analyst,Excel
+2304450,data_analyst,Google Sheets
+2304450,data_analyst,Power BI
+2304450,data_analyst,Looker Studio
+2304450,data_analyst,Data Warehouse
+2304879,data_analyst,Excel
+2304879,data_analyst,Google Sheets
+2304879,data_analyst,Power BI
+2306227,data_analyst,Excel
+2306227,data_analyst,Power BI
+2313002,data_analyst,Python
+2313002,data_analyst,SQL
+2313002,data_analyst,Power BI
+2313002,data_analyst,Tableau
+2313259,data_analyst,Python
+2313259,data_analyst,SQL
+2313259,data_analyst,Power BI
+2313259,data_analyst,Tableau
+2313259,data_analyst,Looker Studio
+2313259,data_analyst,Statistics
+2313259,data_analyst,BigQuery
+2313259,data_analyst,Data Warehouse
+2315981,data_analyst,Python
+2315981,data_analyst,SQL
+2315981,data_analyst,Power BI
+2315981,data_analyst,Tableau
+2315981,data_analyst,Data Warehouse
+2317839,data_analyst,Python
+2317839,data_analyst,SQL
+2317839,data_analyst,R
+2317839,data_analyst,Power BI
+2317839,data_analyst,ETL
+2321660,data_analyst,Excel
+2321660,data_analyst,Google Sheets
+2321660,data_analyst,Power BI
+2322531,data_analyst,Python
+2322531,data_analyst,SQL
+2322531,data_analyst,R
+2322531,data_analyst,Excel
+2322531,data_analyst,Power BI
+2322531,data_analyst,Data Warehouse
+2324652,data_analyst,Python
+2324652,data_analyst,SQL
+2324652,data_analyst,Excel
+2324652,data_analyst,Google Sheets
+2324652,data_analyst,Power BI
+2324652,data_analyst,Looker Studio
+2324652,data_analyst,BigQuery
+2324652,data_analyst,PostgreSQL
+2324652,data_analyst,MySQL
+2326590,data_analyst,Excel
+2326590,data_analyst,Power BI
+2327052,data_analyst,SQL
+2327052,data_analyst,Excel
+2327052,data_analyst,Power BI
+2327052,data_analyst,Tableau
+1037081,data_engineer,Python
+1037081,data_engineer,SQL
+1037081,data_engineer,Scala
+1037081,data_engineer,Power BI
+1037081,data_engineer,Tableau
+1037081,data_engineer,ETL
+1037081,data_engineer,Spark
+1037081,data_engineer,Kafka
+1037081,data_engineer,Hadoop
+1037081,data_engineer,BigQuery
+1037081,data_engineer,PostgreSQL
+1037081,data_engineer,MySQL
+1037081,data_engineer,Redis
+1037081,data_engineer,Elasticsearch
+1748578,data_engineer,Python
+1748578,data_engineer,SQL
+1748578,data_engineer,Java
+1748578,data_engineer,Scala
+1748578,data_engineer,ETL
+1748578,data_engineer,ELT
+1748578,data_engineer,Spark
+1748578,data_engineer,Kafka
+1748578,data_engineer,Airflow
+1748578,data_engineer,Docker
+1748578,data_engineer,Kubernetes
+1748578,data_engineer,MongoDB
+1748578,data_engineer,NoSQL
+1748578,data_engineer,Elasticsearch
+1748578,data_engineer,LLM
+2008022,data_engineer,Python
+2008022,data_engineer,SQL
+2008022,data_engineer,Power BI
+2008022,data_engineer,ETL
+2008022,data_engineer,AWS
+2008022,data_engineer,NoSQL
+2092204,data_engineer,Python
+2092204,data_engineer,SQL
+2092204,data_engineer,Excel
+2092204,data_engineer,Pandas
+2092204,data_engineer,ETL
+2092204,data_engineer,ELT
+2092204,data_engineer,Spark
+2092204,data_engineer,Airflow
+2092204,data_engineer,PostgreSQL
+2092204,data_engineer,Data Warehouse
+2152218,data_engineer,Python
+2152218,data_engineer,SQL
+2152218,data_engineer,ETL
+2152218,data_engineer,ELT
+2152218,data_engineer,Kafka
+2152218,data_engineer,Docker
+2152218,data_engineer,Kubernetes
+2152218,data_engineer,Git
+2152218,data_engineer,Linux
+2152218,data_engineer,PostgreSQL
+2152218,data_engineer,MySQL
+2152218,data_engineer,SQL Server
+2152218,data_engineer,MongoDB
+2152218,data_engineer,Elasticsearch
+2152218,data_engineer,LLM
+2245832,data_engineer,Python
+2245832,data_engineer,SQL
+2245832,data_engineer,ETL
+2245832,data_engineer,ELT
+2245832,data_engineer,Spark
+2245832,data_engineer,Kafka
+2245832,data_engineer,dbt
+2245832,data_engineer,Docker
+2245832,data_engineer,AWS
+2245832,data_engineer,GCP
+2245832,data_engineer,BigQuery
+2245832,data_engineer,NoSQL
+2304617,data_engineer,Python
+2304617,data_engineer,SQL
+2304617,data_engineer,ETL
+2304617,data_engineer,ELT
+2304617,data_engineer,Spark
+2306512,data_engineer,Python
+2306512,data_engineer,Java
+2306512,data_engineer,Data Warehouse
+2309145,data_engineer,Python
+2309145,data_engineer,SQL
+2309145,data_engineer,ETL
+2309145,data_engineer,ELT
+2309145,data_engineer,Spark
+2309145,data_engineer,Git
+2309145,data_engineer,Snowflake
+2309145,data_engineer,PostgreSQL
+2309145,data_engineer,MySQL
+2309145,data_engineer,SQL Server
+2311410,data_engineer,Python
+2311410,data_engineer,SQL
+2311410,data_engineer,Pandas
+2311410,data_engineer,ETL
+2311410,data_engineer,ELT
+2311410,data_engineer,Spark
+2311410,data_engineer,Kafka
+2311410,data_engineer,Airflow
+2311410,data_engineer,Hadoop
+2311410,data_engineer,AWS
+2311410,data_engineer,Data Warehouse
